@@ -1,7 +1,9 @@
+import time
 import streamlit as st
 import pickle
 import pandas as pd
 import requests
+start_time=time.time()
 
 def fetch_poster(movie_id):
      response=requests.get('https://api.themoviedb.org/3/movie/{}?api_key=d29aa45e411375dcfb8c032a4308ac09&language=en-US'.format(movie_id))
@@ -62,5 +64,5 @@ if st.button('Recommend'):
           st.text(names[4])
           st.image(posters[4])
 
-
+print(time.time()-start_time)
 
