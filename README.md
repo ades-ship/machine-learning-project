@@ -8,5 +8,7 @@ APPLICATION :
 2.Literally recommendation engines are throughly used in all domains like in e-commerce platform,in youtube,even in daily life routine like what to eat,wears,cosmatic materials etc.
 3. These all areas really provoke to me to make movie Recommender system.
 
+For running application on local host :-  streamlit run app.py
+
 HERE IS THE LINK FOR APPLICATION
 https://share.streamlit.io/ades-ship/movie-recommender-engine-adesh/app.py
