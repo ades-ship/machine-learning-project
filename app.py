@@ -64,5 +64,5 @@ if st.button('Recommend'):
           st.text(names[4])
           st.image(posters[4])
 
-print(time.time()-start_time)
+st.write(time.time()-start_time)
 
