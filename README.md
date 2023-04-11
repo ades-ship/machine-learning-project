@@ -12,3 +12,5 @@ For running application on local host :-  streamlit run app.py
 
 HERE IS THE LINK FOR APPLICATION
 https://share.streamlit.io/ades-ship/movie-recommender-engine-adesh/app.py
+![movieRecommenderSystem1](https://user-images.githubusercontent.com/81346064/231226719-201b5cdf-5543-4071-a8a4-0a339bb182ab.png)
+![movieRecommenderSystem2](https://user-images.githubusercontent.com/81346064/231226754-7c805027-cdd0-4c03-b9ed-9de4cb58f35f.png)
